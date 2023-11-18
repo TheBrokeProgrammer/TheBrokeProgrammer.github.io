@@ -14,19 +14,19 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: hams3c # the main title
 
 tagline: Shhhh! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+ CTF Player
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: https://github.com/TheBrokeProgrammere # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
