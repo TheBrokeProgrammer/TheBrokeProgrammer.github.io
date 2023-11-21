@@ -3,7 +3,7 @@ title: CompTIA Security+ Full Course Intro to Security+ Reviewer
 author: James
 date: 11/21/2023
 categories: [reviewer]
-tags: [typography]
+tags: [certifications]
 pin: true
 math: true
 mermaid: true
