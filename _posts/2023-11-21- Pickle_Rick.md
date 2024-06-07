@@ -40,3 +40,31 @@ There is a login page and lets try the credentials that we've saw earlier.
 
 ![Imgur](https://i.imgur.com/kaPL5Tk.png)
 
+
+![Imgur](https://i.imgur.com/eE3T6so.png)
+
+We made it to access the portal
+
+But some pages is not allowed for us, only the commands pages only
+
+![Imgur](https://i.imgur.com/TbM1kDC.png)
+
+So lets utilize the command panel, use ls command to list the contents of a directory. 
+
+![Imgur](https://i.imgur.com/av7rCBe.png)
+
+The moment i try to open the Sup3rS3cretPickl3Ingred.txt with a cat command, there is a message 
+
+![Imgur](https://i.imgur.com/lTEqiH1.png)
+
+If the ls command is disabled or unavailable, you can use other commands like: less,more,tail,sed etc.
+
+For me i used less and it gave me the result and the output of that file is the first ingredients.
+
+We see that there is a clue.txt file and the output of that is: 
+
+![Imgur](https://i.imgur.com/ylrpio8.png)
+
+but anw i see the value of denied.php using "tac" command
+
+![img](https://i.imgur.com/ZGQ4t8G.png)
