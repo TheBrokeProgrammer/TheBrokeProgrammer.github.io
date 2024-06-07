@@ -68,3 +68,23 @@ We see that there is a clue.txt file and the output of that is:
 but anw i see the value of denied.php using "tac" command
 
 ![img](https://i.imgur.com/ZGQ4t8G.png)
+
+Okay so lets traverse now 
+
+![img](https://i.imgur.com/bhT5LNU.png)
+
+Always go to the directory that you think is the juiciest part, which for me is the 'home' directory
+
+![img](https://i.imgur.com/h6RwpYq.png)
+
+Go to rick directory and we will see the second ingredients
+
+so lets find out the last ingredients, go to root directory which is the common directory to see the final flag.
+
+But when i try to use just the "ls" it does not show anything.
+
+hmm? maybe because we have to use "sudo" ? to be able to access the root and we can see that the sudo command is not part of disabled command.
+
+![img](https://i.imgur.com/skwVjQC.png)
+
+YEHEYYYY THIS IS THE FINAL INGREDIENTS WE CAN HELP RICK NOW TO MAKE HIS POTION!!!
