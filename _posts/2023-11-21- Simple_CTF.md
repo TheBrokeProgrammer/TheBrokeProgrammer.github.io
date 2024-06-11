@@ -70,3 +70,5 @@ After seeing that i searched immediately in https://gtfobins.github.io/ to find 
 ![img](https://i.imgur.com/IrMZ4hH.png)
 
 Yehey!! We are root now and you can find the root flag here.
+
+
