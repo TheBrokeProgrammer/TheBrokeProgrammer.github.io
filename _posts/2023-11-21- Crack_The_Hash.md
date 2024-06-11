@@ -80,7 +80,7 @@ hashcat -m 1800 hash.txt /usr/local/bin/rockyou.txt
 Salt: tryhackme
 ```
 hashcat -m 150 e5d8870e5bdd26602cab8dbe07a942c8669e56d6:tryhackme"/usr/local/bin/rockyou.txt
-```
+```+
 Answer:  *481616481616*
 
 **Outcome:** Successfully cracked. 
