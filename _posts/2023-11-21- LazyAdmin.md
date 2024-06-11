@@ -84,3 +84,42 @@ Use this script to have a live shell
 
 We can see here the 1st flag for this challenge.
 
+
+
+### PrivEsc
+
+sudo -l command is used to list the permissions that a user has via sudo, which is a program that allows users to execute commands with the security privileges of another user, typically the superuser (root).
+
+![img](https://i.imgur.com/Rb8nml9.png)
+
+Let's see the value of the file.
+
+![img](https://i.imgur.com/7u76vsu.png)
+
+Using the `system()` function to execute a shell script is a common way to run external programs from within your code
+
+
+Go to that file 
+
+![img](https://i.imgur.com/IEo7Bkz.png)
+
+A revshell script? Hmm maybe we can use this to be a root?
+
+![img](https://i.imgur.com/nVm7Lvb.png)
+
+Also the file indicate that the file is own by root but the other users can rwx the file.
+
+Lets try to change the IP in the file with our IP and our port then setup another listener again
+
+![img](https://i.imgur.com/T1oXQuu.png)
+
+Run the perl file or the backup.pl file and lets see if we can connect.
+
+![img](https://i.imgur.com/Wjn7URc.png)
+
+yehey we are root now
+
+![img](https://i.imgur.com/oUb1PDT.png)
+
+We obtained the Final Flag!!!
+
