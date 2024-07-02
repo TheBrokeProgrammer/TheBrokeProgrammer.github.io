@@ -59,6 +59,10 @@ I would also like to express my heartfelt gratitude to my parents, who went abov
 ![img](https://i.imgur.com/FTrEsGu.jpg)
 
 
-Summa Cum Laude
-Bachelor of Science in Computer Science 
-New Era University - Main Campus
+<div align="center">
+
+**Summa Cum Laude**  
+**Bachelor of Science in Computer Science**  
+**New Era University - Main Campus**
+
+</div>
