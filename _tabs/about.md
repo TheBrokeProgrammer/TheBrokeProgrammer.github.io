@@ -42,6 +42,10 @@ I've also been actively participating in seminars about cybersecurity, such as t
 
 ![img](https://i.imgur.com/kqum7Jb.jpg)
 
+The opportunity has also arisen for me to be invited to speak at our university about cybersecurity awareness. I have been given the privilege to educate both professors and college students, enhancing their awareness of the cyber world. During these sessions, I cover various critical topics, including the importance of strong passwords, recognizing phishing attempts, safe internet practices, data protection, and the latest cybersecurity threats and trends. My goal is to equip them with the knowledge and skills necessary to navigate the digital landscape safely and responsibly.
+
+![img](https://i.imgur.com/1K3N4Zi.jpg)
+
 On April 13, I took the CC exam for the first time. I was nervous even though I had reviewed the material, because, despite reading that this is a beginner certification, I still felt like a complete beginner in this field. Then, I got the results—YEHEY! I passed and earned the certification. It was a free certification, but it still felt incredibly rewarding.
 
 ![img](https://i.imgur.com/yC0YozL.jpeg)
